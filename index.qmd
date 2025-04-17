@@ -3,4 +3,12 @@ title: "Max Grezlik"
 format: html
 ---
 
-Welcome! I am an early career fisheries scientist. I am particularly interested in operational applications of Ecosystem Based Fisheries Management. Here's my [CV](cv.html).
+![Max Grezlik](images/headshot.jpg){width="150px" style="border-radius: 50%; margin-bottom: 1rem;"}
+
+## Hi, I’m Max Grezlik — Fishery Data Analyst
+
+I'm a fisheries scientist with a passion for data-driven solutions in marine conservation and resource management. My work bridges the gap between ecological research and applied fisheries science, with a strong focus on quantitative methods, ecosystem based fisheries management, and sustainable fisheries.
+
+I regularly use **R**, **RStudio**, and **GitHub** to build tools, analyze complex datasets, and communicate findings. This site is a hub for my current projects, publications, and CV.
+
+Whether you're a collaborator, a fellow scientist, or just curious about fisheries research, welcome!

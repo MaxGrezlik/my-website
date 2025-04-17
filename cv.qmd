@@ -2,97 +2,40 @@
 title: "Maxwell T. Grezlik"
 ---
 
-**279 Arnold Street, New Bedford MA  02740 U.S.A. \| (248) 912-7026, [maxgrezlik\@gmail.com](mailto:maxgrezlik@gmail.com)** 
+## Work Experience
 
-**Relevant Work** 
-
--   Fishery Data Analyst, IBSS Corporation, 2024 – Present 
-
-<!-- -->
-
--   Develop and test indicators in collaboration with managers and stakeholders ensuring that the highest priority management needs are met first 
-
-<!-- -->
-
--   Create open-source tools and datasets that can be maintained and updated for operational use post-project timeline 
-
-<!-- -->
-
--   Work with the Council and stakeholders to summarize and visualize results to enhance uptake of this new ecosystem information 
-
-<!-- -->
+-   Fishery Data Analyst, IBSS Corporation, 2024 – Present
 
 -   Research Assistant 
 
-<!-- -->
+    -   UMass Dartmouth School for Marine Science and Technology, 2021-Present  
 
--   UMass Dartmouth School for Marine Science and Technology, 2021-Present  
+    -   California State Polytechnic University Humboldt, 2018-2021 
 
-<!-- -->
-
--   California State Polytechnic University Humboldt, 2018-2021 
-
-<!-- -->
-
--   Michigan State University, 2015-2020 
-
-<!-- -->
+    -   Michigan State University, 2015-2020 
 
 -   National Marine Fisheries Service – Sea Grant Fellow, Population & Ecosystem Dynamics, 2023- Present 
 
-<!-- -->
-
 -   Graduate Student Representative, 2022-2023 
-
-<!-- -->
-
--   Analyst, Northeast Fisheries Science Center, 2021-2023 
-
-<!-- -->
-
--   American Plaice Research Track Stock Assessment 
-
-<!-- -->
-
--   Atlantic Cod Research Track Stock Assessment 
-
-<!-- -->
 
 -   Co-Organizer, South Coast MA UseR Group, 2021-2022 
 
-<!-- -->
-
 -   Teaching assistant, California State Polytechnic University Humboldt, 2018 
-
-<!-- -->
 
 -   Fisheries Observer, National Marine Fisheries Service, 2017 
 
-<!-- -->
-
 -   Catch Monitor, Pacific States Marine Fisheries Commission, 2017 
-
-<!-- -->
 
 -   Field Specialist, Virginia Institute of Marine Science, 2016 
 
-**Education** 
+## **Education** 
 
 -   Ph.D. Student 2021-present, University of Massachusetts Dartmouth, School for Marine Science and Technology, Marine Science 
-
-<!-- -->
-
 -   M.S. 2021, California State Polytechnic University Humboldt, Arcata CA; Natural Resources, Fisheries 
-
-<!-- -->
-
 -   B.S. 2016, Michigan State University, East Lansing MI; Environmental Biology/Zoology 
+    -   Minor: Marine Ecosystem Management 
 
-<!-- -->
-
--   Minor: Marine Ecosystem Management 
-
-**Authorship** 
+## **Authorship** 
 
 Grezlik, Maxwell T., "Evaluating the effects of Atlantic menhaden management and environmental change on the northwest Atlantic Ocean ecosystem" (2021). HSU theses and projects. 519. <https://digitalcommons.humboldt.edu/etd/519> 
 
@@ -102,13 +45,13 @@ Karp, M. A., Grezlik, M., Link, J., Cadrin, S., Fay, G., Lynch, P., Townsend, H.
 
 Hill, R. W., Grezlik, M., Muhich, T. E., & Humphries, M. M. (2021). City-scale energetics: window on adaptive thermal insulation in North American cities. Journal of Comparative Physiology B. <https://doi.org/10.1007/s00360-021-01411-8> 
 
-**Selected Acknowledgements** 
+## **Selected Acknowledgements** 
 
 Chagaris, D., Drew, K., Schueller, A., Cieri, M., Brito, J., & Buchheister, A. (2020). Ecological Reference Points for Atlantic Menhaden Established Using an Ecosystem Model of Intermediate Complexity. Frontiers in Marine Science, 7. <https://doi.org/10.3389/fmars.2020.606417> 
 
 SEDAR. (2020). SEDAR 69 – Atlantic Menhaden Ecological Reference Points Stock Assessment Report. SEDAR, North Charleston SC. 560 pp. available online at: <http://sedarweb.org/sedar-69> 
 
-**Selected Presentations** 
+## **Selected Presentations** 
 
 Grezlik, M., Lucey, S., Weisberg, S., Gaichas, S., Cadrin, S.X.. (Honolulu, USA. 2024) Supporting Portfolio Theory Management of Georges Bank Fisheries. American Fisheries Society 2024 Annual Conference. AFS 
 
@@ -124,38 +67,14 @@ Grezlik, M., Buchheister, A., Chagaris, D., Miller, T., Schueller, A., Houde, E.
 
 Grezlik, M., Buchheister, A., Chagaris, D., Miller, T., Schueller, A., Houde, E. (Reno, Nevada. 2019). An Ecosystem Model to Facilitate Ecosystem-Based Management of Atlantic Menhaden. In American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. AFS. 
 
-**Workshops & Additional Training** 
+## **Workshops & Additional Training** 
 
 -   Session Co-Host: Data-Driven, Community-Guided: Navigating the Future of Ecosystem-Based Fisheries Management, American Fisheries Society Annual Meeting, 2024 
-
-<!-- -->
-
 -   Webinar Host: Ecosystem-Based Fisheries Management, American Fisheries Society, 2024 
-
-<!-- -->
-
 -   Prototype Management Strategy Evaluation for Georges Bank Ecosystem-Based Fishery Management, New England Fisheries Management Council, 2022-2023 
-
-<!-- -->
-
 -   Cooperative Research for New England Groundfish, Conservation Law Foundation, 2023 
-
-<!-- -->
-
 -   Introduction to Management Strategy Evaluation, Dr. Gavin Fay, 2022 
-
-<!-- -->
-
 -   Multispecies Modeling Applications in Fisheries Management, NMFS and SMAST, 2021 
-
-<!-- -->
-
 -   Fisheries Dependent Data Workshops, Dr. Gavin Fay, 2021 
-
-<!-- -->
-
 -   Ecopath with Ecosim Professional Training Course, Dr. Cameron Ainsworth, 2019 
-
-<!-- -->
-
 -   Humboldt Bay Ecosystem Model Workshop, Confluence Environmental Company, 2019 

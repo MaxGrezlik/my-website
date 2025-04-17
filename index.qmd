@@ -1,9 +1,8 @@
 ---
-title: "Max Grezlik"
 format: html
 ---
 
-![Max Grezlik](images/headshot.jpg){width="150px" style="border-radius: 50%; margin-bottom: 1rem;"}
+![](images/headshot.jpg){width="150px" style="border-radius: 50%; margin-bottom: 1rem;"}
 
 ## Hi, I’m Max Grezlik — Fishery Data Analyst
 
